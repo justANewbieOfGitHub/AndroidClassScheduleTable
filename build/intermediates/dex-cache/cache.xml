@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_2ab1578af8aa851562a58c69b4b8cfa93f076e95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_f20ed3bc37edf6ed5309a496255cf2a7d53988ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_bdd0619824ca042714872517b8ae2459e85ecf59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_5322fa50b125b4f8935365db61cc3dfddc113a15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_d239af61ec115a610320fd165ae9e2fac1286023.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_d484cbf2ff58469c4212f6cbee2c5f29bf04fca1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_69fd1bdfd692470b1829ce4897ddc07acca952f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5faa26cb2a716b211e961d7d6d520820d2eea734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_c7390fe4ba7b3a40010d77160f48f6b98bc28321.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha7_976eec5cbefba5290904fc960728ce399a0f286c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_12ecb42ee55e060d967b58e8e2e12521be1e10f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.bigkoo\pickerview\2.0.8\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3f00bb9cdb0a14b0db183427d227bfd78b29ec2">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\com.bigkoo-pickerview-2.0.8_e62debf15c7fff57628fcd8ed96b25cbfe92b1f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f01f8ad758264df9dda5dcbf249798409bbb0ed0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.0.1_d467addd6b46356552a47bf758661e5bb2d5754f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_a4bd362bf8aae5b9b5cd373548ff9b07b7371e9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_255f6404c89bd190b6d0fb2c7f0912e29370862e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_25085bc65dea6e9def17dd985410d366cdb463e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_6ea948d5bcce4ee3760b44e2e355d70f9f2f8b63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bb534c11a496e405004e0b03b06c3ace306dda7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\workspace\AndroidTimeTable3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_96bc32314dcc945dd75dbd909dd3fa20ee604f2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\YiRan\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.0.1\345b89f45d02d8b09400b472fab7b7e38f4ede1f\butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="E:\workspace\AndroidTimeTable3\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.0.1_2afa49d652658ed4ee3c0d2de3a3d7d439544678.jar" />
+    </item>
+
+</items>
